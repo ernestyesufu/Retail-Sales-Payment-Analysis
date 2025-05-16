@@ -27,12 +27,10 @@ I used Python for data cleaning, PostgreSQL for data transformation and integrat
 - [`retail_queries.sql`](../retail_queries.sql/create_sales_report_table.sql) – PostgreSQL data transformation queries
 - Dashboard screenshots (![alt text](Retail-sales_overview-dashboard.png), ![alt text](Retail-customer_analysis-dashboardz.png), ![alt text](Retail-payment_insights-dashboard.png), ![alt text](Retail-product_performance-dashboard.png))
 
-[Download the power BI file]
-
 ## Author
 **Ernest Yesufu**
 Data Analyst | SQL, Python, Excel & Power BI
 Based in United Kingdom
 
 ## 🔗 Live Portfolio View
-(https://nextoyes99.github.io/ernestyesufu.github.io/)
+(https://ernestyesufu.github.io/)
